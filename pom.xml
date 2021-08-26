@@ -133,12 +133,12 @@
        <snapshotRepository>
            <id>snapshots</id>
            <name>snapshots</name>
-           <url>http://18.191.218.61:8081/nexus/content/repositories/snapshots</url>
+           <url>http://18.188.10.0:8081/nexus/content/repositories/snapshots</url>
        </snapshotRepository>
        <repository>
            <id>releases</id>
            <name>releases</name>
- <url>http://18.191.218.61:8081/nexus/content/repositories/releases</url>
+ <url>http://18.188.10.0:8081/nexus/content/repositories/releases</url>
        </repository>
    </distributionManagement>
 </project>
